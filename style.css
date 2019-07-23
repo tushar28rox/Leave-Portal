@@ -1,0 +1,29 @@
+body{
+background-image:url("miss.jpg");
+width:100%;
+
+}
+/*#h1{
+	border:1px black solid;
+	margin:auto;
+	color:Blue;
+	text-align:center;
+	padding-right:auto;
+}*/
+#form{
+	background:blue;
+	border:solid gray 2px;
+	margin:auto;
+	padding-left:0px;
+	width:40%;
+	
+
+}
+#btn{
+	color:red;
+	background:#AB0D29;
+	margin:100px auto;
+	border-radius:5px;
+	padding:10px;
+	align:center;
+}
